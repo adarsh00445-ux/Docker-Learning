@@ -1,0 +1,1 @@
+print("Hello from container 2 /n This is my second project")
